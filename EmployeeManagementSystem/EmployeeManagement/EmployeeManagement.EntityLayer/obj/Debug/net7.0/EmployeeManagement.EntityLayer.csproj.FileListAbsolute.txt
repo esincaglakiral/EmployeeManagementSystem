@@ -1,0 +1,11 @@
+D:\SoftwareProject\SirketCaseleri\EmployeeManagement\EmployeeManagement.EntityLayer\bin\Debug\net7.0\EmployeeManagement.EntityLayer.deps.json
+D:\SoftwareProject\SirketCaseleri\EmployeeManagement\EmployeeManagement.EntityLayer\bin\Debug\net7.0\EmployeeManagement.EntityLayer.dll
+D:\SoftwareProject\SirketCaseleri\EmployeeManagement\EmployeeManagement.EntityLayer\bin\Debug\net7.0\EmployeeManagement.EntityLayer.pdb
+D:\SoftwareProject\SirketCaseleri\EmployeeManagement\EmployeeManagement.EntityLayer\obj\Debug\net7.0\EmployeeManagement.EntityLayer.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftwareProject\SirketCaseleri\EmployeeManagement\EmployeeManagement.EntityLayer\obj\Debug\net7.0\EmployeeManagement.EntityLayer.AssemblyInfoInputs.cache
+D:\SoftwareProject\SirketCaseleri\EmployeeManagement\EmployeeManagement.EntityLayer\obj\Debug\net7.0\EmployeeManagement.EntityLayer.AssemblyInfo.cs
+D:\SoftwareProject\SirketCaseleri\EmployeeManagement\EmployeeManagement.EntityLayer\obj\Debug\net7.0\EmployeeManagement.EntityLayer.csproj.CoreCompileInputs.cache
+D:\SoftwareProject\SirketCaseleri\EmployeeManagement\EmployeeManagement.EntityLayer\obj\Debug\net7.0\EmployeeManagement.EntityLayer.dll
+D:\SoftwareProject\SirketCaseleri\EmployeeManagement\EmployeeManagement.EntityLayer\obj\Debug\net7.0\refint\EmployeeManagement.EntityLayer.dll
+D:\SoftwareProject\SirketCaseleri\EmployeeManagement\EmployeeManagement.EntityLayer\obj\Debug\net7.0\EmployeeManagement.EntityLayer.pdb
+D:\SoftwareProject\SirketCaseleri\EmployeeManagement\EmployeeManagement.EntityLayer\obj\Debug\net7.0\ref\EmployeeManagement.EntityLayer.dll

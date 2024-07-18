@@ -1,0 +1,17 @@
+D:\SoftwareProject\SirketCaseleri\EmployeeManagement\EmployeeManagement.BusinessLayer\bin\Debug\net7.0\EmployeeManagement.BusinessLayer.deps.json
+D:\SoftwareProject\SirketCaseleri\EmployeeManagement\EmployeeManagement.BusinessLayer\bin\Debug\net7.0\EmployeeManagement.BusinessLayer.dll
+D:\SoftwareProject\SirketCaseleri\EmployeeManagement\EmployeeManagement.BusinessLayer\bin\Debug\net7.0\EmployeeManagement.BusinessLayer.pdb
+D:\SoftwareProject\SirketCaseleri\EmployeeManagement\EmployeeManagement.BusinessLayer\bin\Debug\net7.0\EmployeeManagement.DataAccessLayer.dll
+D:\SoftwareProject\SirketCaseleri\EmployeeManagement\EmployeeManagement.BusinessLayer\bin\Debug\net7.0\EmployeeManagement.EntityLayer.dll
+D:\SoftwareProject\SirketCaseleri\EmployeeManagement\EmployeeManagement.BusinessLayer\bin\Debug\net7.0\EmployeeManagement.DataAccessLayer.pdb
+D:\SoftwareProject\SirketCaseleri\EmployeeManagement\EmployeeManagement.BusinessLayer\bin\Debug\net7.0\EmployeeManagement.EntityLayer.pdb
+D:\SoftwareProject\SirketCaseleri\EmployeeManagement\EmployeeManagement.BusinessLayer\obj\Debug\net7.0\EmployeeManagement.BusinessLayer.csproj.AssemblyReference.cache
+D:\SoftwareProject\SirketCaseleri\EmployeeManagement\EmployeeManagement.BusinessLayer\obj\Debug\net7.0\EmployeeManagement.BusinessLayer.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftwareProject\SirketCaseleri\EmployeeManagement\EmployeeManagement.BusinessLayer\obj\Debug\net7.0\EmployeeManagement.BusinessLayer.AssemblyInfoInputs.cache
+D:\SoftwareProject\SirketCaseleri\EmployeeManagement\EmployeeManagement.BusinessLayer\obj\Debug\net7.0\EmployeeManagement.BusinessLayer.AssemblyInfo.cs
+D:\SoftwareProject\SirketCaseleri\EmployeeManagement\EmployeeManagement.BusinessLayer\obj\Debug\net7.0\EmployeeManagement.BusinessLayer.csproj.CoreCompileInputs.cache
+D:\SoftwareProject\SirketCaseleri\EmployeeManagement\EmployeeManagement.BusinessLayer\obj\Debug\net7.0\Employee.F36B0DA4.Up2Date
+D:\SoftwareProject\SirketCaseleri\EmployeeManagement\EmployeeManagement.BusinessLayer\obj\Debug\net7.0\EmployeeManagement.BusinessLayer.dll
+D:\SoftwareProject\SirketCaseleri\EmployeeManagement\EmployeeManagement.BusinessLayer\obj\Debug\net7.0\refint\EmployeeManagement.BusinessLayer.dll
+D:\SoftwareProject\SirketCaseleri\EmployeeManagement\EmployeeManagement.BusinessLayer\obj\Debug\net7.0\EmployeeManagement.BusinessLayer.pdb
+D:\SoftwareProject\SirketCaseleri\EmployeeManagement\EmployeeManagement.BusinessLayer\obj\Debug\net7.0\ref\EmployeeManagement.BusinessLayer.dll

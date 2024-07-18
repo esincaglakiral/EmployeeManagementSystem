@@ -1,0 +1,15 @@
+D:\SoftwareProject\SirketCaseleri\EmployeeManagement\EmployeeManagement.DataAccessLayer\bin\Debug\net7.0\EmployeeManagement.DataAccessLayer.deps.json
+D:\SoftwareProject\SirketCaseleri\EmployeeManagement\EmployeeManagement.DataAccessLayer\bin\Debug\net7.0\EmployeeManagement.DataAccessLayer.dll
+D:\SoftwareProject\SirketCaseleri\EmployeeManagement\EmployeeManagement.DataAccessLayer\bin\Debug\net7.0\EmployeeManagement.DataAccessLayer.pdb
+D:\SoftwareProject\SirketCaseleri\EmployeeManagement\EmployeeManagement.DataAccessLayer\bin\Debug\net7.0\EmployeeManagement.EntityLayer.dll
+D:\SoftwareProject\SirketCaseleri\EmployeeManagement\EmployeeManagement.DataAccessLayer\bin\Debug\net7.0\EmployeeManagement.EntityLayer.pdb
+D:\SoftwareProject\SirketCaseleri\EmployeeManagement\EmployeeManagement.DataAccessLayer\obj\Debug\net7.0\EmployeeManagement.DataAccessLayer.csproj.AssemblyReference.cache
+D:\SoftwareProject\SirketCaseleri\EmployeeManagement\EmployeeManagement.DataAccessLayer\obj\Debug\net7.0\EmployeeManagement.DataAccessLayer.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftwareProject\SirketCaseleri\EmployeeManagement\EmployeeManagement.DataAccessLayer\obj\Debug\net7.0\EmployeeManagement.DataAccessLayer.AssemblyInfoInputs.cache
+D:\SoftwareProject\SirketCaseleri\EmployeeManagement\EmployeeManagement.DataAccessLayer\obj\Debug\net7.0\EmployeeManagement.DataAccessLayer.AssemblyInfo.cs
+D:\SoftwareProject\SirketCaseleri\EmployeeManagement\EmployeeManagement.DataAccessLayer\obj\Debug\net7.0\EmployeeManagement.DataAccessLayer.csproj.CoreCompileInputs.cache
+D:\SoftwareProject\SirketCaseleri\EmployeeManagement\EmployeeManagement.DataAccessLayer\obj\Debug\net7.0\Employee.2F266C1A.Up2Date
+D:\SoftwareProject\SirketCaseleri\EmployeeManagement\EmployeeManagement.DataAccessLayer\obj\Debug\net7.0\EmployeeManagement.DataAccessLayer.dll
+D:\SoftwareProject\SirketCaseleri\EmployeeManagement\EmployeeManagement.DataAccessLayer\obj\Debug\net7.0\refint\EmployeeManagement.DataAccessLayer.dll
+D:\SoftwareProject\SirketCaseleri\EmployeeManagement\EmployeeManagement.DataAccessLayer\obj\Debug\net7.0\EmployeeManagement.DataAccessLayer.pdb
+D:\SoftwareProject\SirketCaseleri\EmployeeManagement\EmployeeManagement.DataAccessLayer\obj\Debug\net7.0\ref\EmployeeManagement.DataAccessLayer.dll
